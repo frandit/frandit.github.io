@@ -1,0 +1,232 @@
+Uri: https://hugo.barrera.io/
+File Name: c:\Downloaded Web Sites\hugo.barrera.io\index.htm
+Content Type: text/html
+
+Uri: https://hugo.barrera.io/styles/new.css
+File Name: c:\Downloaded Web Sites\hugo.barrera.io\styles\new.css
+Content Type: text/css
+
+Uri: https://hugo.barrera.io/styles/icons.css
+File Name: c:\Downloaded Web Sites\hugo.barrera.io\styles\icons.css
+Content Type: text/css
+
+Uri: https://hugo.barrera.io/styles/highlight.css
+File Name: c:\Downloaded Web Sites\hugo.barrera.io\styles\highlight.css
+Content Type: text/css
+
+Uri: https://hugo.barrera.io/posts.xml
+File Name: c:\Downloaded Web Sites\hugo.barrera.io\posts.xml
+Content Type: application/xml
+
+Uri: https://hugo.barrera.io/cv.pdf
+File Name: c:\Downloaded Web Sites\hugo.barrera.io\cv.pdf
+Content Type: application/pdf
+
+Uri: https://hugo.barrera.io/journal/2016/11/29/spotify-review/
+File Name: c:\Downloaded Web Sites\hugo.barrera.io\journal\2016\11\29\spotify-review\index.htm
+Content Type: text/html
+
+Uri: https://hugo.barrera.io/journal/2016/11/23/using-freeotp-with-battlenet/
+File Name: c:\Downloaded Web Sites\hugo.barrera.io\journal\2016\11\23\using-freeotp-with-battlenet\index.htm
+Content Type: text/html
+
+Uri: https://hugo.barrera.io/journal/2016/02/07/using-letsencrypt-and-hkpk/
+File Name: c:\Downloaded Web Sites\hugo.barrera.io\journal\2016\02\07\using-letsencrypt-and-hkpk\index.htm
+Content Type: text/html
+
+Uri: https://hugo.barrera.io/journal/2015/09/22/giving-up-on-im/
+File Name: c:\Downloaded Web Sites\hugo.barrera.io\journal\2015\09\22\giving-up-on-im\index.htm
+Content Type: text/html
+
+Uri: https://hugo.barrera.io/journal/2015/04/06/start-small-then-grow/
+File Name: c:\Downloaded Web Sites\hugo.barrera.io\journal\2015\04\06\start-small-then-grow\index.htm
+Content Type: text/html
+
+Uri: https://hugo.barrera.io/journal/2015/03/30/introducing-todoman/
+File Name: c:\Downloaded Web Sites\hugo.barrera.io\journal\2015\03\30\introducing-todoman\index.htm
+Content Type: text/html
+
+Uri: https://hugo.barrera.io/journal/2015/03/17/open-source-your-website/
+File Name: c:\Downloaded Web Sites\hugo.barrera.io\journal\2015\03\17\open-source-your-website\index.htm
+Content Type: text/html
+
+Uri: https://hugo.barrera.io/journal/2015/02/15/opensmtpd-dovecot-shared-sql-db/
+File Name: c:\Downloaded Web Sites\hugo.barrera.io\journal\2015\02\15\opensmtpd-dovecot-shared-sql-db\index.htm
+Content Type: text/html
+
+Uri: https://hugo.barrera.io/journal/2014/08/06/backups-the-right-way/
+File Name: c:\Downloaded Web Sites\hugo.barrera.io\journal\2014\08\06\backups-the-right-way\index.htm
+Content Type: text/html
+
+Uri: https://hugo.barrera.io/images/me_64.png
+File Name: c:\Downloaded Web Sites\hugo.barrera.io\images\me_64.png
+Content Type: image/png
+
+Uri: https://hugo.barrera.io/font/icons.eot?58851039
+File Name: c:\Downloaded Web Sites\hugo.barrera.io\font\icons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://hugo.barrera.io/font/icons.woff2?58851039
+File Name: c:\Downloaded Web Sites\hugo.barrera.io\font\icons.woff2
+Content Type: font/woff2
+
+Uri: https://hugo.barrera.io/font/icons.woff?58851039
+File Name: c:\Downloaded Web Sites\hugo.barrera.io\font\icons.woff
+Content Type: font/woff
+
+Uri: https://hugo.barrera.io/font/icons.ttf?58851039
+File Name: c:\Downloaded Web Sites\hugo.barrera.io\font\icons.ttf
+Content Type: font/ttf
+
+Uri: https://hugo.barrera.io/font/icons.svg?58851039
+File Name: c:\Downloaded Web Sites\hugo.barrera.io\font\icons.svg
+Content Type: image/svg+xml
+
+Uri: https://hugo.barrera.io/portfolio/
+File Name: c:\Downloaded Web Sites\hugo.barrera.io\portfolio\index.htm
+Content Type: text/html
+
+Uri: https://hugo.barrera.io/recipes/
+File Name: c:\Downloaded Web Sites\hugo.barrera.io\recipes\index.htm
+Content Type: text/html
+
+Uri: https://hugo.barrera.io/about/
+File Name: c:\Downloaded Web Sites\hugo.barrera.io\about\index.htm
+Content Type: text/html
+
+Uri: https://hugo.barrera.io/images/journal/2016-11-29-spotify-review/search-error.png
+File Name: c:\Downloaded Web Sites\hugo.barrera.io\images\journal\2016-11-29-spotify-review\search-error.png
+Content Type: image/png
+
+Uri: https://hugo.barrera.io/images/journal/2016-11-29-spotify-review/sign-up.png
+File Name: c:\Downloaded Web Sites\hugo.barrera.io\images\journal\2016-11-29-spotify-review\sign-up.png
+Content Type: image/png
+
+Uri: https://hugo.barrera.io/images/journal/2016-11-29-spotify-review/mixed-languages.png
+File Name: c:\Downloaded Web Sites\hugo.barrera.io\images\journal\2016-11-29-spotify-review\mixed-languages.png
+Content Type: image/png
+
+Uri: https://hugo.barrera.io/images/journal/2016-11-29-spotify-review/premium-required.png
+File Name: c:\Downloaded Web Sites\hugo.barrera.io\images\journal\2016-11-29-spotify-review\premium-required.png
+Content Type: image/png
+
+Uri: https://hugo.barrera.io/images/journal/2016-11-29-spotify-review/premium-in-spanish.png
+File Name: c:\Downloaded Web Sites\hugo.barrera.io\images\journal\2016-11-29-spotify-review\premium-in-spanish.png
+Content Type: image/png
+
+Uri: https://hugo.barrera.io/images/journal/2016-11-29-spotify-review/premium-in-english.png
+File Name: c:\Downloaded Web Sites\hugo.barrera.io\images\journal\2016-11-29-spotify-review\premium-in-english.png
+Content Type: image/png
+
+Uri: https://hugo.barrera.io/images/journal/2015-03-30-introducing-todoman/todoman-1.jpeg
+File Name: c:\Downloaded Web Sites\hugo.barrera.io\images\journal\2015-03-30-introducing-todoman\todoman-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://hugo.barrera.io/images/journal/2015-03-30-introducing-todoman/todoman-2.jpeg
+File Name: c:\Downloaded Web Sites\hugo.barrera.io\images\journal\2015-03-30-introducing-todoman\todoman-2.jpeg
+Content Type: image/jpeg
+
+Uri: https://hugo.barrera.io/images/portfolio/virtstart.png
+File Name: c:\Downloaded Web Sites\hugo.barrera.io\images\portfolio\virtstart.png
+Content Type: image/png
+
+Uri: https://hugo.barrera.io/images/portfolio/moodsy.png
+File Name: c:\Downloaded Web Sites\hugo.barrera.io\images\portfolio\moodsy.png
+Content Type: image/png
+
+Uri: https://hugo.barrera.io/images/portfolio/minimalistech.png
+File Name: c:\Downloaded Web Sites\hugo.barrera.io\images\portfolio\minimalistech.png
+Content Type: image/png
+
+Uri: https://hugo.barrera.io/images/portfolio/hugobarrera.png
+File Name: c:\Downloaded Web Sites\hugo.barrera.io\images\portfolio\hugobarrera.png
+Content Type: image/png
+
+Uri: https://hugo.barrera.io/recipes/beer-vegetable-curry/
+File Name: c:\Downloaded Web Sites\hugo.barrera.io\recipes\beer-vegetable-curry\index.htm
+Content Type: text/html
+
+Uri: https://hugo.barrera.io/recipes/brownies/
+File Name: c:\Downloaded Web Sites\hugo.barrera.io\recipes\brownies\index.htm
+Content Type: text/html
+
+Uri: https://hugo.barrera.io/recipes/lentil-empanadas/
+File Name: c:\Downloaded Web Sites\hugo.barrera.io\recipes\lentil-empanadas\index.htm
+Content Type: text/html
+
+Uri: https://hugo.barrera.io/recipes/lentil-spinach-pie/
+File Name: c:\Downloaded Web Sites\hugo.barrera.io\recipes\lentil-spinach-pie\index.htm
+Content Type: text/html
+
+Uri: https://hugo.barrera.io/recipes/okara-cookies/
+File Name: c:\Downloaded Web Sites\hugo.barrera.io\recipes\okara-cookies\index.htm
+Content Type: text/html
+
+Uri: https://hugo.barrera.io/recipes/plant-milk/
+File Name: c:\Downloaded Web Sites\hugo.barrera.io\recipes\plant-milk\index.htm
+Content Type: text/html
+
+Uri: https://hugo.barrera.io/recipes/potato-curry/
+File Name: c:\Downloaded Web Sites\hugo.barrera.io\recipes\potato-curry\index.htm
+Content Type: text/html
+
+Uri: https://hugo.barrera.io/recipes/saffron-rice/
+File Name: c:\Downloaded Web Sites\hugo.barrera.io\recipes\saffron-rice\index.htm
+Content Type: text/html
+
+Uri: https://hugo.barrera.io/recipes/spicy-eggplant/
+File Name: c:\Downloaded Web Sites\hugo.barrera.io\recipes\spicy-eggplant\index.htm
+Content Type: text/html
+
+Uri: https://hugo.barrera.io/recipes/tofu-pizza/
+File Name: c:\Downloaded Web Sites\hugo.barrera.io\recipes\tofu-pizza\index.htm
+Content Type: text/html
+
+Uri: https://hugo.barrera.io/stuff-i-use/
+File Name: c:\Downloaded Web Sites\hugo.barrera.io\stuff-i-use\index.htm
+Content Type: text/html
+
+Uri: https://hugo.barrera.io/images/recipes/beer-vegetable-curry.jpg
+File Name: c:\Downloaded Web Sites\hugo.barrera.io\images\recipes\beer-vegetable-curry.jpg
+Content Type: image/jpeg
+
+Uri: https://hugo.barrera.io/images/recipes/brownies.jpg
+File Name: c:\Downloaded Web Sites\hugo.barrera.io\images\recipes\brownies.jpg
+Content Type: image/jpeg
+
+Uri: https://hugo.barrera.io/images/recipes/lentil-empanadas.jpg
+File Name: c:\Downloaded Web Sites\hugo.barrera.io\images\recipes\lentil-empanadas.jpg
+Content Type: image/jpeg
+
+Uri: https://hugo.barrera.io/images/recipes/lentil-spinach-pie.jpg
+File Name: c:\Downloaded Web Sites\hugo.barrera.io\images\recipes\lentil-spinach-pie.jpg
+Content Type: image/jpeg
+
+Uri: https://hugo.barrera.io/images/recipes/plant-milk.jpg
+File Name: c:\Downloaded Web Sites\hugo.barrera.io\images\recipes\plant-milk.jpg
+Content Type: image/jpeg
+
+Uri: https://hugo.barrera.io/images/recipes/potato-curry.jpg
+File Name: c:\Downloaded Web Sites\hugo.barrera.io\images\recipes\potato-curry.jpg
+Content Type: image/jpeg
+
+Uri: https://hugo.barrera.io/images/recipes/saffron-rice.jpg
+File Name: c:\Downloaded Web Sites\hugo.barrera.io\images\recipes\saffron-rice.jpg
+Content Type: image/jpeg
+
+Uri: https://hugo.barrera.io/images/recipes/spicy-eggplant.jpg
+File Name: c:\Downloaded Web Sites\hugo.barrera.io\images\recipes\spicy-eggplant.jpg
+Content Type: image/jpeg
+
+Uri: https://hugo.barrera.io/images/recipes/tofu-pizza.jpg
+File Name: c:\Downloaded Web Sites\hugo.barrera.io\images\recipes\tofu-pizza.jpg
+Content Type: image/jpeg
+
+Uri: https://hugo.barrera.io/gear/
+File Name: c:\Downloaded Web Sites\hugo.barrera.io\gear\index.htm
+Content Type: text/html
+
+Uri: https://hugo.barrera.io/images/stuff-i-use/desktop.png
+File Name: c:\Downloaded Web Sites\hugo.barrera.io\images\stuff-i-use\desktop.png
+Content Type: image/png
+
