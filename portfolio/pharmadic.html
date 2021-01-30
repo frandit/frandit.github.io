@@ -12,7 +12,7 @@
 
     <title>Francisco Javier Riba</title>
 
-    <link href="..\styles\new.css" rel='stylesheet'>
+    <link href="/styles/new.css" rel='stylesheet'>
     <link href="..\styles\icons.css" rel='stylesheet'>
     <link href="..\styles\highlight.css" rel='stylesheet'>
 
@@ -20,6 +20,17 @@
 </head>
 
 <body>
+    <div id="myModal" class="modal">
+
+        <!-- The Close Button -->
+        <span class="close">&times;</span>
+
+        <!-- Modal Content (The Image) -->
+        <img class="modal-content" id="img01">
+
+        <!-- Modal Caption (Image Text) -->
+        <div id="caption"></div>
+    </div>
     <header id="master">
         <h1>Francisco Javier Riba</h1>
         <br>
@@ -49,7 +60,10 @@
         <div class="section group portfolio">
             <div class="col span_1_of_2">
 
-                <img src="/images/portfolio/Pharmadic_login.PNG" class="pharma-img">
+                <img src="/images/portfolio/Pharmadic_login.PNG" class="pharma-img img-one">
+
+                <!-- The Modal -->
+
 
             </div>
             <div class="col span_1_of_2">
@@ -60,7 +74,7 @@
         <div class="section group portfolio">
             <div class="col span_1_of_2">
 
-                <img src="/images/portfolio/Pharmadic_index.PNG" class="pharma-img">
+                <img src="/images/portfolio/Pharmadic_index.PNG" class="pharma-img img-two">
 
             </div>
             <div class="col span_1_of_2">
@@ -71,7 +85,7 @@
         <div class="section group portfolio">
             <div class="col span_1_of_2">
 
-                <img src="/images/portfolio/Pharmadic_pharma.PNG" class="pharma-img">
+                <img src="/images/portfolio/Pharmadic_pharma.PNG" class="pharma-img img-three">
 
             </div>
             <div class="col span_1_of_2">
@@ -89,7 +103,7 @@
         <!--This website has been tested on firefox, w3m, chromium, opera mini and a few other browsers.<br>-->
         Francisco Javier Riba 29/01/2021
     </footer>
-
+    <script src="/modal.js"></script>
 </body>
 
 </html>
